@@ -1,2 +1,1 @@
-# publishing-demo-herren
--
+# publishing-demo

@@ -1,0 +1,32 @@
+body {
+    font-family: 'Georgia', sans-serif;
+    background-color: green;
+    margin-left: 100px;
+}
+
+h1 {
+    font-variant-caps: all-petite-caps;
+    font-size: 20px;
+}
+
+p {
+    font-size: 1em;
+}
+
+li {
+    font-size: 1em;
+}
+
+.text-background {
+    background-color: pink;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h6 {
+    background-color: #91D2FA;
+}
+
+div {
+    background-color: grey;
+}
